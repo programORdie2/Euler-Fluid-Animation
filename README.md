@@ -14,5 +14,4 @@ A simple [Euler fluid simulation](https://en.wikipedia.org/wiki/Euler_equations_
 - "m" to step the simulation one frame
 
 ## License
-MIT License
-See (LICENSE)[LICENSE] for more information.
+MIT License, see [LICENSE](LICENSE) for more information.
